@@ -11,4 +11,9 @@ public class Example {
 		System.out.println("Anu created m1");
 	}
 
+	private void m2() {
+		
+		System.out.println("Sri created m2");
+	}
+
 }
